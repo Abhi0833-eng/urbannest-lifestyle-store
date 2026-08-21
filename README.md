@@ -41,9 +41,9 @@ We built a full-stack commercial-grade digital retail web application for UrbanN
 
 | Team Member | Role & Responsibilities | Key Deliverables |
 | :--- | :--- | :--- |
-| **Member 1** | **UI/UX & Landing Page Lead** | Designed visual design system, dark/light themes, micro-animations, responsive layout, and hero graphics. |
-| **Member 2** | **Full-Stack Web Developer** | Implemented Express backend (`server.js`), Product Search/Filter API, Shopping Cart Drawer logic, and state management. |
-| **Member 3** | **AI/Chatbot & N8N Integration / DevOps** | Integrated N8N query form & front dashboard chatbot proxy handlers, configured fallback AI engine, and handled Render deployment. |
+| **Abhishek Gupta** | **UI/UX & Landing Page Lead** | Designed visual design system, dark/light themes, micro-animations, responsive layout, and hero graphics. |
+| **Suman Maity** | **Full-Stack Web Developer** | Implemented Express backend (`server.js`), Product Search/Filter API, Shopping Cart Drawer logic, and state management. |
+| **Jayant Vaibhav** | **AI/Chatbot & N8N Integration / DevOps** | Integrated N8N query form & front dashboard chatbot proxy handlers, configured fallback AI engine, and handled Render deployment. |
 
 ---
 
