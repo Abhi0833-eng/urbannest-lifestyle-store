@@ -75,32 +75,13 @@ The application seamlessly connects to N8N.io through dedicated server-side prox
 
 ---
 
-## 🚀 Deployment Instructions on Render
+## 🚀 Live Production Deployment on Render
 
-### Step 1: Push Repository to GitHub
-```bash
-git init
-git add .
-git commit -m "Initial commit - UrbanNest Lifestyle Store"
-git remote add origin https://github.com/your-username/urbannest-lifestyle-store.git
-git push -u origin main
-```
+The web application is **live and fully deployed** on Render with automated continuous deployment!
 
-### Step 2: Deploy to Render
-1. Log in to [Render Dashboard](https://dashboard.render.com/).
-2. Click **New +** → **Web Service**.
-3. Connect your GitHub repository `urbannest-lifestyle-store`.
-4. Configure standard settings:
-   - **Environment**: `Node`
-   - **Build Command**: `npm install`
-   - **Start Command**: `npm start`
-5. Set Environment Variables:
-   - `PORT`: `10000`
-   - `N8N_QUERY_WEBHOOK_URL`: `<your-n8n-query-webhook-url>`
-   - `N8N_CHATBOT_WEBHOOK_URL`: `<your-n8n-chatbot-webhook-url>`
-6. Click **Create Web Service**.
-
-Alternatively, Render will automatically auto-detect `render.yaml` and configure all settings with 1-click!
+* 🌐 **Live Web Application URL**: [https://urbannest-lifestyle-store-ux4q.onrender.com/](https://urbannest-lifestyle-store-ux4q.onrender.com/)
+* 📦 **GitHub Source Repository**: [https://github.com/Abhi0833-eng/urbannest-lifestyle-store](https://github.com/Abhi0833-eng/urbannest-lifestyle-store)
+* ⚡ **Infrastructure Blueprint**: Powered by [`render.yaml`](file:///c:/Users/abhis/hackathon/render.yaml) for automatic Node.js build & startup configuration.
 
 ---
 
