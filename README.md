@@ -1,8 +1,8 @@
 # 🏡 UrbanNest Lifestyle Store - Digital Transformation Project
 
 > **Mini Hackathon Challenge**: Taking a Local Offline Shop Online  
-> **Deployed Web Application**: Deployed & Ready on Render  
-> **Integrations**: N8N.io AI Chatbot + N8N.io Customer Query Form  
+> 🌐 **Live Web Application**: [https://urbannest-lifestyle-store-ux4q.onrender.com/](https://urbannest-lifestyle-store-ux4q.onrender.com/)  
+> ⚡ **Integrations**: N8N.io AI Chatbot + N8N.io Customer Query Form  
 
 ---
 
