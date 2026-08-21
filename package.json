@@ -1,0 +1,25 @@
+{
+  "name": "urbannest-lifestyle-store",
+  "version": "1.0.0",
+  "description": "UrbanNest Lifestyle Store - Offline Shop Online Hackathon Solution with N8N AI Chatbot & Query Form Integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "hackathon",
+    "urbannest",
+    "n8n",
+    "chatbot",
+    "render",
+    "lifestyle-store"
+  ],
+  "author": "Team UrbanNest",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}

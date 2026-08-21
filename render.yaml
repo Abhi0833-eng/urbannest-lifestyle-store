@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: urbannest-lifestyle-store
+    env: node
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: PORT
+        value: 10000
+      - key: N8N_QUERY_WEBHOOK_URL
+        sync: false
+      - key: N8N_CHATBOT_WEBHOOK_URL
+        sync: false
